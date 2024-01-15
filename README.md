@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Heryck!
 
-- 🌱 Estudando C# e MySQL
+- 🌱 Estudando Flutter e MySQL
 
  <div>
   <a href="https://github.com/HeryckPeres">
